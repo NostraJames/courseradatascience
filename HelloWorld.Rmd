@@ -1,4 +1,15 @@
 ---
+<<<<<<< HEAD
+title: "Hello World"
+author: "James Teeling"
+date: "October 29, 2015"
+output: html_document
+---
+
+## This is a markdown file
+
+I am testing this out
+=======
 title: "HelloWorld"
 author: "James"
 date: "October 28, 2015"
@@ -6,3 +17,4 @@ output: html_document
 ---
 
 ## This is a markdown file
+>>>>>>> 7a1d191a0740ad988e3abbd1dcbda6366843485f
