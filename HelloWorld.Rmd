@@ -1,0 +1,10 @@
+---
+title: "Hello World"
+author: "James Teeling"
+date: "October 29, 2015"
+output: html_document
+---
+
+## This is a markdown file
+
+I am testing this out
